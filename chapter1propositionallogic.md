@@ -1,10 +1,10 @@
 # Chapter 1: Propositional Logic
 
  - [What tf is proposition?](#11-what-tf-is-proposition)
- - Dang compound propositions...
- - Examples
- - Converse, Inverse, Contrapositive and tautology and more...
- - Logical Equivalence By Identities and Laws
+ - [Dang compound propositions...](#12-dang-compound-propositions)
+ - [Examples](#13-examples)
+ - [Converse, Inverse, Contrapositive and tautology and more...](#14-converse-inverse-contrapositive-and-tautology-and-more)
+ - [Logical Equivalence By Identities and Laws](#15-logical-equivalence-by-identities-and-laws)
 
 ## 1.1: What tf is proposition?
 Well "A proposition is a declarative statement that is either true or false, but not"

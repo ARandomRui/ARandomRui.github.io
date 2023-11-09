@@ -1,6 +1,6 @@
 # Chapter 1: Propositional Logic
 
- - What tf is proposition?
+ - [What tf is proposition?](## 1.1: What tf is proposition?)
  - Dang compound propositions...
  - Examples
  - Converse, Inverse, Contrapositive and tautology and more...

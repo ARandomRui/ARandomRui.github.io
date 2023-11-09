@@ -27,6 +27,7 @@ Example: He told you, [[You are dumb]] --> True! (Well actually no, since that's
 Yadiyada ik negation should be slightly longer and conjunction be as big as disjunction but what givessss
 
 **Conjunction**
+
 | p |q  | p^q|  
 |--|--|--|
 |T|T|T|
@@ -37,6 +38,7 @@ Yadiyada ik negation should be slightly longer and conjunction be as big as disj
 aka "AND" , yeah.. i assume yall know what an AND gate is
 
 **Disjunction**
+
 |p|q|pVq|  
 |--|--|--|
 |T|T|T|
@@ -47,6 +49,7 @@ aka "AND" , yeah.. i assume yall know what an AND gate is
 So. "OR" gate. if one is True then it's true! 
 
 **Implication**
+
 |p|q|p→q|  
 |--|--|--|
 |T|T|T|
@@ -68,6 +71,7 @@ If you make it into sentence it'll make tons of sense tho!
  - you don't not get hurt when you don't kill yourself (Mr Obvious?)
 
 **If and only if** and **Exclusive Or**
+
 |p|q|p<->q|  
 |--|--|--|
 |T|T|T|
